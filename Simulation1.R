@@ -1,4 +1,4 @@
-#pop=uniform
+#####Exponential(1/9)
 m<-500
 x<-1:10000/500
 
